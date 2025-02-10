@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    box-sizing: border-box;
+    background-color: #000000;
+    
+}
+
+.presentacion__sietedias{
+    padding: 5% 0% 0% 27%;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD95F;
+    font-size: 2.5rem;
+    
+    
+}
+
+.presentacion__imagen{
+    width: 40%;
+    padding: 0% 0% 0% 30%;
+    align-items: center;
+   
+}
