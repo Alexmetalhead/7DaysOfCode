@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin:0;
+}
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-image: url(./img/alura.png);
+    flex-direction: column; 
+}
+
+.presentacion__sietedias{
+    width: 70%;
+    padding: 10% 20% 30% 25%;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFD95F;
+    font-size: 2.5rem;    
+    gap: 20px;
+}
+
+.footer{
+    background-color: #3D8D7A;
+    padding: 30px;
+    color: #FFD95F;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+}
