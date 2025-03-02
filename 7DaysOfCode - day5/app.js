@@ -1,4 +1,5 @@
 window.addEventListener("DOMContentLoaded", (event) => { 
+
 let verduras = [];
 let frutas = [];
 let carnes = [];
