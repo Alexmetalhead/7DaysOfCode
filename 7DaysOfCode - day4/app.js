@@ -1,3 +1,4 @@
+window.addEventListener("DOMContentLoaded", (event) => {
 const valorEspesifico = Math.floor(Math.random() * (10 - 0 + 1) + 0);
 console.log(valorEspesifico);
 
@@ -23,4 +24,4 @@ console.log(valorEspesifico);
 if (!acertado) {
     alert(`"¡Lo siento! No acertaste. El número correcto era: ${valorEspesifico}"`);
 }
-  
+}) 
