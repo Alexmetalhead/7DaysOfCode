@@ -37,4 +37,5 @@ while (agregarProducto != "no") {
         otros.push(alimento)}
 }
 alert (`Tu lista de Compras es la siguiente: \n Verduras: ${verduras}\n Frutas: ${frutas}\n Carnes: ${carnes}\n Lacteos: ${lacteos}\n Otros: ${otros}`);
-})  
+
+});  
