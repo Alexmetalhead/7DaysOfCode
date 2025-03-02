@@ -1,3 +1,5 @@
+window.addEventListener("DOMContentLoaded", (event) => {
+
 const area = prompt("¿Quieres seguir en el área de 'front-end' o 'back-end'? Escribe el nombre del área:");
 console.log(area);
 let tipolenguaje = "";
@@ -22,4 +24,7 @@ while (mensaje === "ok") {
     alert(`¡${tecnologia} es realmente una tecnología muy interesante!`);
     mensaje = prompt("¿Hay alguna otra tecnología que te gustaría aprender? Escribe 'ok' en caso positivo, de lo contrario Pulsa enter para salir");
 }
-alert("Finalizaste El Test")
+alert("Finalizaste El Test");
+    
+});
+                        
