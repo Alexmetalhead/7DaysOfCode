@@ -1,3 +1,4 @@
+window.addEventListener("DOMContentLoaded", (event) => {
 let numeroUn = 1;
 let stringUn = '1';
 let numeroTreinta = 30;
@@ -22,5 +23,5 @@ if (numeroDiez == stringDiez) {
 } else {
   console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor');
 }
-
+})
 
