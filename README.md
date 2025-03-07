@@ -10,3 +10,7 @@ Día 3 Lógica JS 3/7: Estructuras de control de flujo
 Día 4 Lógica JS 4/7: Mas loops y randomización
 
 Día 5 Lógica JS 5/7: Arrays y colecciones
+
+Día 6 Lógica JS 6/7: Remoción de arrays
+
+Día 7 Lógica JS 7/7: Funciones en javascript
